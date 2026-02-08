@@ -1,0 +1,11 @@
+{
+  "name": "prime-ai-v1",
+  "version": "1.0.0",
+  "description": "Prime AI Dashboard with Netlify Functions",
+  "main": "index.html",
+  "dependencies": {
+    "openai": "^4.0.0"
+  },
+  "author": "Prime",
+  "license": "ISC"
+}
